@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Combustivel</string>
+    <string name="litro_gasolina">Litro gasolina</string>
+    <string name="litro_etanol">Litro Etanol</string>
+    <string name="comparar">Comparar</string>
+    <string name="res">Res =</string>
+</resources>
